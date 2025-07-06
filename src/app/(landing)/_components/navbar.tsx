@@ -1,11 +1,8 @@
 "use client";
 
-import AnimationContainer from "@/components/globals/animation-container";
 import Wrapper from "@/components/globals/wrapper";
 import { cn } from "@/lib/utils";
 import { motion } from "framer-motion";
-import { Github } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 
 const Navbar = () => {

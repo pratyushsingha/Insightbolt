@@ -2,7 +2,6 @@
 
 import { Button } from "@/components/ui/button";
 import { signIn } from "next-auth/react";
-import Image from "next/image";
 import Link from "next/link";
 
 const LoginPage = () => {
